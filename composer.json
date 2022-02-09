@@ -1,0 +1,19 @@
+{
+    "name": "oshit/contact",
+    "description": "This will send to email",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Oshit\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oshit",
+            "email": "oshitsd99@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
