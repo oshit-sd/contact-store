@@ -15,12 +15,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
     "extra": {
         "laravel": {
             "providers": [
                 "Oshit\\Contact\\ContactServiceProvider"
             ]
         }
-    }
+    },
+    "require": {}
 }
